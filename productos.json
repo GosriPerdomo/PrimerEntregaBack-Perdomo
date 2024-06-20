@@ -1,0 +1,36 @@
+[
+  {
+    "title": "Nuevo Producto",
+    "description": "Descripción del Nuevo Producto",
+    "code": "PROD001",
+    "price": 29.99,
+    "status": true,
+    "stock": 100,
+    "category": "Electrónica",
+    "thumbnails": [
+      "http://url-imagen-1.jpg",
+      "http://url-imagen-2.jpg"
+    ],
+    "id": "77fd2086-c954-472d-b917-aca46a2ab383"
+  },
+  {
+    "title": "Nuevo Producto Sin Thumbnails",
+    "description": "Descripción del Nuevo Producto Sin Thumbnails",
+    "code": "PROD002",
+    "price": 39.99,
+    "status": true,
+    "stock": 50,
+    "category": "Electrónica",
+    "id": "94e9cf6a-af3e-49ab-ac2f-bb93e759437c"
+  },
+  {
+    "title": "Nuevo Producto",
+    "description": "Descripción del Nuevo Producto",
+    "code": "PROD001",
+    "price": 29.99,
+    "status": true,
+    "stock": 100,
+    "category": "Electrónica",
+    "id": "da9d9c57-2a92-4271-a77d-cb0f3009fadd"
+  }
+]

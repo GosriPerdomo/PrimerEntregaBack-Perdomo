@@ -1,0 +1,17 @@
+{
+  "name": "entrega-back",
+  "version": "1.0.0",
+  "description": "ecommerce",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.7"
+  },
+  "devDependencies": {},
+  "author": "Mati Perdomo",
+  "license": "MIT"
+}
+
